@@ -61,7 +61,7 @@
 | 3 | 2024.11.27 | 보령 | [8장 JSX에서 TSX로](https://thin-brisket-ae4.notion.site/8-JSX-TSX-1441725a42fe807ea7a9e83332aef4f3?pvs=4) |
 | 3 | 2024.11.27 | 희선 | [9장 훅](https://heess.notion.site/9-14baf5c28112809d80dbc0414bfda12d?pvs=4) |
 | 3 | 2024.11.27 | 현재 | [10장 상태 관리](https://typical-pearl-e88.notion.site/10-14a9d8bb0e5b80d78bd5f35e43a7b682?pvs=74) |
-| 4 | 2024.12.04 | 보령 | [11장 ](/) |
+| 4 | 2024.12.04 | 보령 | [11장 CSS-in-JS](https://thin-brisket-ae4.notion.site/11-CSS-in-JS-14c1725a42fe8083b9c3e7b8a68a7ca0?pvs=4) |
 | 4 | 2024.12.04 | 희선 | [12장 ](/) |
 | 4 | 2024.12.04 | 현재 | [13장 ](/) |
 
