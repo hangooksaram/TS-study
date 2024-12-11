@@ -62,7 +62,7 @@
 | 3 | 2024.11.27 | 희선 | [9장 훅](https://heess.notion.site/9-14baf5c28112809d80dbc0414bfda12d?pvs=4) |
 | 3 | 2024.11.27 | 현재 | [10장 상태 관리](https://typical-pearl-e88.notion.site/10-14a9d8bb0e5b80d78bd5f35e43a7b682?pvs=74) |
 | 4 | 2024.12.11 | 보령 | [11장 CSS-in-JS](https://thin-brisket-ae4.notion.site/11-CSS-in-JS-14c1725a42fe8083b9c3e7b8a68a7ca0?pvs=4) |
-| 4 | 2024.12.11 | 희선 | [12장 ](/) |
+| 4 | 2024.12.11 | 희선 | [12장 타입스크립트 프로젝트 관리](https://heess.notion.site/12-14daf5c28112808eb523cb625730cedd) |
 | 4 | 2024.12.11 | 현재 | [13장 타입스크립트와 객체 지향](https://typical-pearl-e88.notion.site/13-1599d8bb0e5b80a4aebbe6f4ebbfae5d) |
 
 
