@@ -63,7 +63,7 @@
 | 3 | 2024.11.27 | 현재 | [10장 상태 관리](https://typical-pearl-e88.notion.site/10-14a9d8bb0e5b80d78bd5f35e43a7b682?pvs=74) |
 | 4 | 2024.12.04 | 보령 | [11장 CSS-in-JS](https://thin-brisket-ae4.notion.site/11-CSS-in-JS-14c1725a42fe8083b9c3e7b8a68a7ca0?pvs=4) |
 | 4 | 2024.12.04 | 희선 | [12장 ](/) |
-| 4 | 2024.12.04 | 현재 | [13장 ](/) |
+| 4 | 2024.12.04 | 현재 | [13장 ](https://typical-pearl-e88.notion.site/13-1599d8bb0e5b80a4aebbe6f4ebbfae5d) |
 
 
 <br/><br/>
